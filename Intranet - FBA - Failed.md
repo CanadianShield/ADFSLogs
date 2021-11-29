@@ -1,6 +1,6 @@
 ﻿# Intranet - FBA - Failed
 
-Here are the different events generated on a **Windows Server 2012 R2 ADFS** server when a user **fails** to authenticate **internally** using **Form Based Authentication**.
+Here are the different events generated on a **Windows Server 2016 ADFS** server when a user **fails** to authenticate **internally** using **Form Based Authentication**.
 
 *All GUID are given as example. Colors are to facilitate the correlation.*
 
