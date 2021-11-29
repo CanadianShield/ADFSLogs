@@ -2,7 +2,7 @@
 
 Here are the different events generated on a **Windows Server 2016 ADFS** server when a user successfully authenticate **internally** using **Form Based Authentication**.
 
-*All GUID are given as example. Colors are to facilitate the correlation.*
+*All GUID are given as examples. Colors are to facilitate the correlation.*
 
 ![1](/Images/Intranet-FBA-Success-1.png)
 ---
