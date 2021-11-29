@@ -20,7 +20,8 @@ Here are the different events generated on a **Windows Server 2016 ADFS** server
 ---
 ![8](/Images/Intranet-FBA-Failed-8.png)
 
-Failed logon will also generate the following events in the `AD FS/Admin` event log:
+Failed logon will also generate the following events in the `AD FS/Admin` event log: 
+
 ![8-admin](/Images/Intranet-FBA-Failed-8-Admin.png)
 ---
 ![9](/Images/Intranet-FBA-Failed-9.png)
